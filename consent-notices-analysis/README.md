@@ -1,4 +1,4 @@
-# Source code for: Freely Given Consent? Studying Consent Notice of Third-Party Tracking and Its Violations of GDPR in Android Apps
+# Identifying Consent Notices
 
 ## Prerequisite
 1. `Python` (3 are supported).
